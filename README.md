@@ -1,5 +1,5 @@
 # CodeAlpha-task
-🧮 Age Calculator
+🧮 Age Calculator.
 
 👨‍💻 Author
 Developed by Ambish during the CodeAlpha Internship (May–Aug 2026).
