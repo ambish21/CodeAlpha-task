@@ -2,7 +2,7 @@
 🧮 Age Calculator.
 
 👨‍💻 Author
-Developed by Ambish during the CodeAlpha Internship (May–Aug 2026).
+Developed by Ambish Yaqoob during the CodeAlpha Internship (May–Aug 2026).
 
 📌 Description
 The Age Calculator is a simple web application that calculates a user’s exact age in years, months, and days based on their date of birth. Built with HTML, CSS, and JavaScript, it demonstrates beginner‑friendly logic, clean UI design, and practical use of date functions.
