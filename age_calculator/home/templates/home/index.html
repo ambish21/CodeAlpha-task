@@ -1,0 +1,27 @@
+{% extends 'base/base.html' %}
+
+{% block content %}
+
+<div class="container">
+
+    <h1>Age Calculator</h1>
+
+    <form id="ageForm">
+
+        <input type="number" id="day" placeholder="Day" required>
+
+        <input type="number" id="month" placeholder="Month" required>
+
+        <input type="number" id="year" placeholder="Year" required>
+
+        <button type="submit">Calculate Age</button>
+
+    </form>
+
+    <h2 id="result"></h2>
+
+</div>
+
+<script src="{% static 'js/age.js' %}"></script>
+
+{% endblock %}
